@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=601
+
+I use this script mapped to <F12>. It outputs the current wordcount to the \\&#039status bar\\&#039 thus aleviating the ever annoying \\&#039Press enter\\&#039 prompt after using :!
